@@ -4,7 +4,7 @@
 
 |                        paper                         |                                   code                                    |     key word      |
 | :--------------------------------------------------: | :-----------------------------------------------------------------------: | :---------------: |
-|    [Mask RCNN](https://arxiv.org/abs/1703.06870)     |           [Mask RCNN](https://github.com/matterport/Mask_RCNN)            | Object Detection                  |
+|    [Mask RCNN](https://arxiv.org/abs/1703.06870)     |           [Mask RCNN](https://github.com/matterport/Mask_RCNN)            | Object Detection  |
 |       [SSD](https://arxiv.org/abs/1512.02325)        |             [SSD](https://github.com/balancap/SSD-Tensorflow)             | Object Detection  |
 |      [yolo3](https://arxiv.org/abs/1804.02767)       |              [yolo3](https://github.com/qqwweee/keras-yolo3)              | Object Dectection |
 | [EfficientDet](https://arxiv.org/pdf/1911.09070.pdf) | [EfficientDet](https://github.com/google/automl/tree/master/efficientdet) | Object Detection  |
@@ -25,7 +25,7 @@
 + [kaggle](https://www.kaggle.com/docs/datasets)
 + [Caltech 101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
 + [Caltech 256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/)
-+ [Pascal VOC](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
++ [Pascal VOC](https://pjreddie.com/projects/pascal-voc-dataset-mirror/)
 + [Labelme](http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php)
 + [ImageNet](http://image-net.org/)
 + [MS COCO](http://mscoco.org/)
