@@ -1,3 +1,5 @@
+[toc]
+# Papers
 ## Face detection/recognition/reconstruction
 + [Towards Universal Representation Learning for Deep Face Recognition](https://arxiv.org/abs/2002.11841) [CVPR2020]   
 + [Suppressing Uncertainties for Large-Scale Facial Expression Recognition](https://arxiv.org/abs/2002.10392) [[code](https://github.com/kaiwang960112/Self-Cure-Network)] [CVPR2020]    
@@ -29,9 +31,12 @@
 + [Cascaded Refinement Network for Point Cloud Completion](https://arxiv.org/abs/2004.03327) [[code](https://github.com/xiaogangw/cascaded-point-completion)] [CVPR2020]   
 + [PointAugment: an Auto-Augmentation Framework for Point Cloud Classification](https://arxiv.org/abs/2002.10876) [[code](https://github.com/liruihui/PointAugment/)] [CVPR2020]   
 
-### Meta learning / Few shot learning / one shot learning
+## Meta learning / Few shot learning / one shot learning
 + [Few-shot Object Detection via Feature Reweighting](https://arxiv.org/pdf/1812.01866.pdf) [ICCV2019]  
++ [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232) [[code](https://github.com/wyharveychen/CloserLookFewShot)] [ICLR]  
 + [Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector](https://arxiv.org/abs/1908.01998)    [CVPR2020]  
++ [A New Meta-Baseline for Few-Shot Learning](https://arxiv.org/abs/2003.04390) [[code](https://github.com/cyvius96/few-shot-meta-baseline)] [CVPR2020]   
++ [A Baseline for Few-Shot Image Classification](https://arxiv.org/abs/1909.02729) [ICLR2020]   
 
 ## Image processing
 + [Deep Image Harmonization via Domain Verification](https://arxiv.org/abs/1911.13239) [[code](https://github.com/bcmi/Image_Harmonization_Datasets)] [CVPR2020]
