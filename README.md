@@ -1,9 +1,9 @@
 - [Papers](#Papers)
-    - [Face-detection/recognition/reconstruction](#Face-detection/recognition/reconstruction)
-    - [Object-detection/segmentation/tracking](#Object-detection/segmentation/tracking)
-    - [Meta-learning/Few-shot-learning/one-shot-learning](#Meta-learning/Few-shot-learning/one-shot-learning)
-    - [Image-processing](#Image-processing)
-    - [OCR](#OCR)
+    - [Face-detection/recognition/reconstruction](##Face-detection/recognition/reconstruction)
+    - [Object-detection/segmentation/tracking](##Object-detection/segmentation/tracking)
+    - [Meta-learning/Few-shot-learning/one-shot-learning](##Meta-learning/Few-shot-learning/one-shot-learning)
+    - [Image-processing](##Image-processing)
+    - [OCR](##OCR)
 - [DataSets](#DataSets)
 
 # Papers
