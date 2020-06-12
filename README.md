@@ -29,6 +29,9 @@
 + [Cascaded Refinement Network for Point Cloud Completion](https://arxiv.org/abs/2004.03327) [[code](https://github.com/xiaogangw/cascaded-point-completion)] [CVPR2020]   
 + [PointAugment: an Auto-Augmentation Framework for Point Cloud Classification](https://arxiv.org/abs/2002.10876) [[code](https://github.com/liruihui/PointAugment/)] [CVPR2020]   
 
+### Few shot learning / meta learning / one shot learning
++ [Few-shot Object Detection via Feature Reweighting](https://arxiv.org/pdf/1812.01866.pdf) [ICCV2019]  
+
 ## Image processing
 + [Deep Image Harmonization via Domain Verification](https://arxiv.org/abs/1911.13239) [[code](https://github.com/bcmi/Image_Harmonization_Datasets)] [CVPR2020]
 
@@ -39,7 +42,7 @@
 + [Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition](https://arxiv.org/abs/2003.06606) [[code](https://github.com/Canjie-Luo/Text-Image-Augmentation)] [CVPR2020]  
 
 
-**DataSets**   
+# DataSets
 2D
 
 + [CIFAR10 / CIFAR100](http://www.cs.utoronto.ca/~kriz/cifar.html)
