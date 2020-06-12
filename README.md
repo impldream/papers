@@ -44,7 +44,8 @@
 
 
 # DataSets
-2D
+
+**2D**
 
 + [CIFAR10 / CIFAR100](http://www.cs.utoronto.ca/~kriz/cifar.html)
 + [kaggle](https://www.kaggle.com/docs/datasets)
@@ -57,8 +58,9 @@
 + [COIL 20](http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php）)
 + [COIL100](http://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php)
 + [Google’s Open Images](https://research.googleblog.com/2016/09/introducing-open-images-dataset.html)
-+ [Omniglot](https://github.com/brendenlake/omniglot) [meta learning]
-3D
++ [Omniglot](https://github.com/brendenlake/omniglot) [meta learning]   
+
+**3D**
 
 + [NYUv2 RGB-D](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 + [Sun RGB-D](http://rgbd.cs.princeton.edu/)
