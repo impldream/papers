@@ -15,7 +15,6 @@
 + [SSD](https://arxiv.org/abs/1512.02325)                     [[code](https://github.com/balancap/SSD-Tensorflow)]  
 + [yolo3](https://arxiv.org/abs/1804.02767)                    [[code](https://github.com/qqwweee/keras-yolo3)]  
 + [EfficientDet](https://arxiv.org/pdf/1911.09070.pdf)  [[code](https://github.com/google/automl/tree/master/efficientdet)]   
-+ [Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector](https://arxiv.org/abs/1908.01998)    [CVPR2020]
 + [Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection](https://arxiv.org/abs/1912.02424)    [[code](https://github.com/sfzhang15/ATSS)]    [CVPR2020]   
 + [CenterMask : Real-Time Anchor-Free Instance Segmentation](https://arxiv.org/abs/1911.06667) [[code](https://github.com/youngwanLEE/CenterMask)] [CVPR2020]
 + [PolarMask: Single Shot Instance Segmentation with Polar Representation](https://arxiv.org/abs/1909.13226) [[code](https://github.com/xieenze/PolarMask)] [CVPR2020]    
@@ -32,6 +31,7 @@
 
 ### Meta learning / Few shot learning / one shot learning
 + [Few-shot Object Detection via Feature Reweighting](https://arxiv.org/pdf/1812.01866.pdf) [ICCV2019]  
++ [Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector](https://arxiv.org/abs/1908.01998)    [CVPR2020]  
 
 ## Image processing
 + [Deep Image Harmonization via Domain Verification](https://arxiv.org/abs/1911.13239) [[code](https://github.com/bcmi/Image_Harmonization_Datasets)] [CVPR2020]
@@ -57,7 +57,7 @@
 + [COIL 20](http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php）)
 + [COIL100](http://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php)
 + [Google’s Open Images](https://research.googleblog.com/2016/09/introducing-open-images-dataset.html)
-
++ [Omniglot](https://github.com/brendenlake/omniglot) [meta learning]
 3D
 
 + [NYUv2 RGB-D](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
