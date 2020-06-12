@@ -19,6 +19,7 @@
 + [Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection](https://arxiv.org/abs/1912.02424)    [[code](https://github.com/sfzhang15/ATSS)]    [CVPR2020]   
 + [CenterMask : Real-Time Anchor-Free Instance Segmentation](https://arxiv.org/abs/1911.06667) [[code](https://github.com/youngwanLEE/CenterMask)] [CVPR2020]
 + [PolarMask: Single Shot Instance Segmentation with Polar Representation](https://arxiv.org/abs/1909.13226) [[code](https://github.com/xieenze/PolarMask)] [CVPR2020]    
++ [ResNeSt: Split-Attention Networks](https://arxiv.org/abs/2004.08955) [[code](https://github.com/zhanghang1989/ResNeSt)] [CVPR2020]  
 
 **3D**  
 
@@ -29,7 +30,7 @@
 + [Cascaded Refinement Network for Point Cloud Completion](https://arxiv.org/abs/2004.03327) [[code](https://github.com/xiaogangw/cascaded-point-completion)] [CVPR2020]   
 + [PointAugment: an Auto-Augmentation Framework for Point Cloud Classification](https://arxiv.org/abs/2002.10876) [[code](https://github.com/liruihui/PointAugment/)] [CVPR2020]   
 
-### Few shot learning / meta learning / one shot learning
+### Meta learning / Few shot learning / one shot learning
 + [Few-shot Object Detection via Feature Reweighting](https://arxiv.org/pdf/1812.01866.pdf) [ICCV2019]  
 
 ## Image processing
