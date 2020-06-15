@@ -40,7 +40,8 @@
 
 ## Meta-learning/Few-shot-learning/one-shot-learning
 + [Few-shot Object Detection via Feature Reweighting](https://arxiv.org/pdf/1812.01866.pdf) [ICCV2019]  
-+ [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232) [[code](https://github.com/wyharveychen/CloserLookFewShot)] [ICLR]  
++ [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232) [[code](https://github.com/wyharveychen/CloserLookFewShot)] [ICLR2019]  
++ [Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning](https://arxiv.org/pdf/1805.10002.pdf) [[code](https://github.com/csyanbin/TPN)] [ICLR2019]   
 + [Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector](https://arxiv.org/abs/1908.01998)    [CVPR2020]  
 + [A New Meta-Baseline for Few-Shot Learning](https://arxiv.org/abs/2003.04390) [[code](https://github.com/cyvius96/few-shot-meta-baseline)] [CVPR2020]   
 + [A Baseline for Few-Shot Image Classification](https://arxiv.org/abs/1909.02729) [ICLR2020]   
