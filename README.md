@@ -29,6 +29,9 @@
 + [PolarMask: Single Shot Instance Segmentation with Polar Representation](https://arxiv.org/abs/1909.13226) [[code](https://github.com/xieenze/PolarMask)] [CVPR2020]    
 + [ResNeSt: Split-Attention Networks](https://arxiv.org/abs/2004.08955) [[code](https://github.com/zhanghang1989/ResNeSt)] [CVPR2020]  
 
+**Object tracking**   
++ [D3S -- A Discriminative Single Shot Segmentation Tracker](https://arxiv.org/abs/1911.08862) [[code](https://github.com/alanlukezic/d3s)] [CVPR2020]   
+
 **3D**  
 
 +  [PointNet](https://arxiv.org/abs/1612.00593)    [[code](https://github.com/charlesq34/pointnet)]   
